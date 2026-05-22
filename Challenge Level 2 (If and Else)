@@ -1,0 +1,24 @@
+#Challenge 1
+# username=input("What is your username?")
+# password=input("Type in the password")
+# if username == "Ihavementalinstability67" and password == "The password":
+#     print("You are in the black market")
+# elif username == "Ihavementalinstability67" and password !="The password":
+#     print("You are in the white market")
+# elif username == ("Lukas, Gabriel, Cameron are gay") and password =="Lukas, Gabriel, Cameron are gay":
+#     print("When are you available?")
+# else:
+#     print("You have no rizz and you will not have a wife, kids, friends, and worse, the lack of alcohol!")
+# Challenge 2
+# score=int(input("What is your score?"))
+# attendance=int(input("Type in the attendance rate"))
+# if score >= 50 and attendance >= 75:
+#     print("You passed")
+# elif score < 50 and attendance >=75:
+#     print("You have failed by score")
+# elif score >= 50 and attendance <75:
+#      print("You have failed by attendance rate")
+# elif score < 50 and attendance <75:
+#     print("You have failed on both the score and the attendance")
+# else:
+#      print("What happened?")
