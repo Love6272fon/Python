@@ -1,0 +1,48 @@
+#Challenge 1
+# def play_song(song):
+#     print(f"Now playing: {song}! ■")
+# song = input("What song do you want to listen to?")
+# if song == "Ed sheeran":
+#     play_song(song)
+#Challenge 2
+# def area_square(length):
+#     area_square = length * length
+#     print ("the area of square is",area_square)
+# def area_rectange(length,width):
+#     area_rectange = length * width
+#     print ("the area of the rectange is",area_rectange)
+# ask = input("what area do you want to calculate (square/rectangle)")
+# if ask == "square":
+#     length = int(input("Give me a length "))
+#     area_square(length)
+# elif ask == "rectangle":
+#     length = int(input("Give me a length "))
+#     width = int(input("Give me a width"))
+#     area_rectange(length,width)
+# else:
+#     print("You have the kind of confidence that only comes from never realizing how little you understand.")
+
+#Challenge 3
+# def make_icecream(flavor,topping):
+#     print(f"Here’s your {flavor} ice cream with {topping}! ■'. ")
+# flavor=input("What is your favorite flavor on ice cream?")
+# topping=input("What is your favorite topping on ice cream?")
+# make_icecream(flavor,topping)
+# Challenge 4
+# import random
+# def quiz(num1,num2):
+#     result = num1 + num2
+#     if ask == result:
+#         print("You are correct")
+#     else:
+#         print(f"its wrong. the corect answer was {result}")
+# num1 = random.ranfdint(1,10)
+# num2 = random.randint(1,10)
+# ask = int(input(f"what is {num1} + {num2}"))
+# quiz(num1,num2)
+#Challenge 5
+# def create_character(name,power):
+#     print (f"Welcome {name}! Your power is {power}!")
+# name=input("What is your name?(Skibidi, Ohio Fart Cannon,Mogger 2000,etc.)")
+# power=input("What do you want your superpower to be?(Gaydar Level 9000,Cat Walk Speedboost,Homosexual Kamehameha,etc).")
+# create_character(name,power)
