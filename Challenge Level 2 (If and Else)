@@ -22,3 +22,20 @@
 #     print("You have failed on both the score and the attendance")
 # else:
 #      print("What happened?")
+# Challenge 3
+# member=str(input("Do you have a membership?(Yes,No)"))
+# price=int(input("How much did you buy?(No need for curency!"))
+# if member== "yes" and price >=1000:
+#     total= price * 0.8
+#     print(f"Your total is {total}!")
+# elif member== "yes" and price <1000:
+#     total= price * 0.9
+#     print(f"Your total is {total}!")
+# elif member== "no":
+#     total= price * 1
+#     print(f"Your total is {total}!")
+# else:
+#     print("I don't know why you're playing hard-to-get when you're so hard to want")
+    print(f"Your total is {total}!")
+else:
+    print("I don't know why you're playing hard-to-get when you're so hard to want")
