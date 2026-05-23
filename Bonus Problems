@@ -8,3 +8,15 @@
 #     print("It is cold. Have a jacket!")
 # else:
 #     print("What are you talking about?")
+# Bonus Challenge 2
+# wife = input("Do you have a wife? (Type in yes, or no): ")
+# if wife == "yes":
+#     name = input("What is her name?: ")
+#     if name == "Fon":
+#         print("You are her lucky husband (This is 100% not blackmail)")
+#     else:
+#         print("Who are you?")
+# elif wife == "no":
+#     print("Understood! Moving on...")
+# else:
+#     print("Please type only 'yes' or 'no'.")
