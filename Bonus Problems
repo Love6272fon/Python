@@ -1,0 +1,10 @@
+# Bonus Challenge 1
+# temprature = int(input("What is your current temprature in celcius?(No need for the symbol)"))
+# if temprature > 30:
+#     print("It is hot. Stay hydrated!")
+# elif temprature <= 30 and  temprature >= 15:
+#     print("The temprature is fine. Have fun!")
+# elif temprature < 15:
+#     print("It is cold. Have a jacket!")
+# else:
+#     print("What are you talking about?")
