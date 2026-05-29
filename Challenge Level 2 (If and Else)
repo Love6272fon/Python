@@ -74,4 +74,15 @@
 #     print("You have the mental brain compastity of a composter")
 # else:
 #     print("GET OUT NOW!")
-    
+# Challenge 7
+# Balance=int(input("How much is in your bank account? (No type of currency needed!)"))
+# Withdraw=int(input("How much do you want to withdraw? (No type of currency needed!)"))
+# Total = Balance - Withdraw
+# if Withdraw > Balance:
+#     print("Not enough balance")
+# elif Withdraw <=0:
+#     print("Invalid amount")
+# elif Total<500:
+#     print("You are almost out of money")
+# else:
+#     print("SUCCSESS")    
