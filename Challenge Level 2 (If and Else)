@@ -56,5 +56,22 @@
 #     print("Access Granted")
 # else:
 #     print("You are stupid enough to not see the note on the second question or common sence on the first!")
-else:
-    print("I don't know why you're playing hard-to-get when you're so hard to want")
+# else:
+#     print("I don't know why you're playing hard-to-get when you're so hard to want")
+#Challenge 6
+# Grade=int(input("What is your grade?(0-100)"))
+# if Grade >=80 and Grade <=100:
+#     print("You got an A")
+# elif Grade >=70 and Grade <=79:
+#     print("You got a B")
+# elif Grade >=60 and Grade <=69:
+#     print("You and a C")
+# elif Grade >= 50 and Grade <=59:
+#     print("You got a D")
+# elif Grade> 0 and Grade <50:
+#     print("You failed!")
+# elif Grade <0:
+#     print("You have the mental brain compastity of a composter")
+# else:
+#     print("GET OUT NOW!")
+    
