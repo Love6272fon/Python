@@ -36,6 +36,25 @@
 #     print(f"Your total is {total}!")
 # else:
 #     print("I don't know why you're playing hard-to-get when you're so hard to want")
-    print(f"Your total is {total}!")
+#     print(f"Your total is {total}!")
+# Challenge 4
+# Num1= int(input("Give me a number"))
+# if Num1 % 3 == 0 and Num1 % 5 ==0:
+#     print("The number is divisible by 5 and 3")
+# elif Num1 % 5 ==0:
+#     print("The number is divisible by 5")
+# elif Num1 % 3 ==0:
+#     print("The number is divisible by 3")
+# else:
+#     print("You are gay")
+# Challenge 5
+# Age = int(input("How old are you?"))
+# Permission = int(input("What is the password? (Note: The password only contains numbers!"))
+# if Age < 18 and Permission == 676767:
+#     print("Access Granted with permission")
+# elif Age >= 18:
+#     print("Access Granted")
+# else:
+#     print("You are stupid enough to not see the note on the second question or common sence on the first!")
 else:
     print("I don't know why you're playing hard-to-get when you're so hard to want")
