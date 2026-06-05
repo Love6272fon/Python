@@ -1,0 +1,20 @@
+#Challenge 1
+#for i in range (11):
+#   print(i)
+#Challenge 2
+# Input = input("What is your name?")
+# for i in (Input):
+#     print(i)
+#Challenge 3
+#Name= input("What is your name?")
+#for i in (Name):
+#   print(i,"!")
+#Challenge 4
+#Word = input("Give me a word")
+#for i in (Word):
+#   print(i.upper())
+#Challenge 5
+# Mystery=input("What is the mystery word?")
+# for i in (Mystery):
+#     if i == "x":
+#         print("Found an X!")
