@@ -84,5 +84,14 @@
 #     print("Invalid amount")
 # elif Total<500:
 #     print("You are almost out of money")
+# Challenge 8
+# Score =int(input("What is your score? (1 - Oh my days you are just trolling me!)"))
+# Level= int(input("What is your level?(1 - Ok, you are just a troller you idiotic simple minded uh... dingleberry)"))
+# if Score >=1000 and Level>=5:
+#     print("You passed the fart of doom!")
+# elif Score >= 1000 and Level <5:
+#     print("You failed the cheeseburger test.")
+# else:
+#     print("Ok, what is wrong with you?")
 # else:
 #     print("SUCCSESS")    
