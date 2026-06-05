@@ -95,3 +95,24 @@
 #     print("Ok, what is wrong with you?")
 # else:
 #     print("SUCCSESS")    
+# Challenge 9
+# Mor=int(input("What is your first number?"))
+# On=int(input("What is your second number?"))
+# Dingis=input("Do you want to +,-,*,/")
+# if Dingis== "+":
+#     add=Mor+On
+#     print(add)
+# elif Dingis== "-":
+#     subtract=Mor-On
+#     print(subtract)
+# elif Dingis== "*":
+#     multiply=Mor*On
+#     print(multiply)
+# elif Dingis== "/":
+#     try:  
+#         divide=Mor/On
+#         print(divide)
+#     except ZeroDivisionError:
+#         print("You are the chosen stupid ipad kid.")
+# else:
+#     print("Bruh")
