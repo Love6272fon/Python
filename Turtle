@@ -1,0 +1,17 @@
+import turtle
+turtle.shape("turtle")
+turtle.speed(0)
+
+side= int(input("How many sides should this shape have?"))
+length=int(input("How far should the turtle move?"))
+angle=int(input("What is the turtle's angle"))
+color=input("What should the color be?")
+shape=input("What should be the shape of the drawer be?(Turtle,Circle,Triangle,Square,Arrow,Classic")
+speed=int(input("What should the speed be? (1-10)"))
+turtle.shape(shape)
+turtle.speed(speed)
+turtle.color(color)
+for i in range(side):
+    turtle. forward(length)
+    turtle. left(angle)
+    
